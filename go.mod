@@ -5,8 +5,10 @@ go 1.13
 require (
 	github.com/go-logr/logr v0.1.0
 	github.com/go-openapi/spec v0.19.4
+	github.com/hashicorp/go-cleanhttp v0.5.1
 	github.com/hashicorp/go-tfe v0.3.31
 	github.com/hashicorp/terraform v0.12.24
+	github.com/hashicorp/terraform-svchost v0.0.0-20191011084731-65d371908596
 	github.com/mitchellh/cli v1.1.0
 	github.com/operator-framework/operator-sdk v0.15.1
 	github.com/spf13/pflag v1.0.5
